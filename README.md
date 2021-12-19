@@ -24,11 +24,12 @@
 
 ### 🛠 Tools:
 
-<img alt="git" src="https://img.shields.io/badge/git-060619.svg?&style=for-the-badge&logo=git&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
-<img alt="github" src="https://img.shields.io/badge/github-060619.svg?&style=for-the-badge&logo=github&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="Git" src="https://img.shields.io/badge/git-060619.svg?&style=for-the-badge&logo=git&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="Github" src="https://img.shields.io/badge/github-060619.svg?&style=for-the-badge&logo=github&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="Figma" src="https://img.shields.io/badge/figma-060619.svg?&style=for-the-badge&logo=figma&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
-<img alt="photoshop" src="https://img.shields.io/badge/photoshop-060619.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/vs code-060619.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="Photoshop" src="https://img.shields.io/badge/photoshop-060619.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="Vs code" src="https://img.shields.io/badge/vs code-060619.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="Notion" src="https://img.shields.io/badge/notion-060619.svg?&style=for-the-badge&logo=notion&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 
 
 ### 🤝 Connect with me:
