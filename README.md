@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Sergey
+
+## I'm a Front-end Developer and Enthusiast!
+
+#### Facts about me
+- 🏙️ I’m From Ukraine, Kharkiv
+- 💻 2+ Years Experience in Front-end Development
+- 🤍 React lover
 
 <!--
 **Radnet12/Radnet12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
