@@ -1,17 +1,11 @@
 ### 👋 Hi, I'm Sergey
 
-## I'm a Front-end Developer and Enthusiast!
+## I'm a Front-end Enthusiast!
 
 ### 🙋‍♂️ Facts about me:
 - 🏙️ I’m From Ukraine, Kharkiv
 - 💻 2+ Years Experience in Front-end Development
 - 🤍 React lover
-
-### 🤝 Connect with me:
-
-[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
-[<img alt="Почта" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
-
 
 ### 💻 Tech Stack:
 
@@ -35,6 +29,12 @@
 <img alt="Figma" src="https://img.shields.io/badge/figma-060619.svg?&style=for-the-badge&logo=figma&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-060619.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-060619.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+
+
+### 🤝 Connect with me:
+
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
+[<img alt="Почта" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
 
 [telegram]: https://t.me/sergeyvasylenko4
