@@ -10,7 +10,7 @@
 ### 🤝 Connect with me:
 
 [<img alt="Telegram" src="https://img.shields.io/badge/telegram-076BDE.svg?&style=for-the-badge&logo=telegram&logoColor=fff" />][telegram]
-[<img alt="Почта" src="https://img.shields.io/badge/gmail-076BDE.svg?&style=for-the-badge&logo=gmail&logoColor=fff" />][gmail]
+[<img alt="Почта" src="https://img.shields.io/badge/gmail-DE0707.svg?&style=for-the-badge&logo=gmail&logoColor=fff" />][gmail]
 
 
 
