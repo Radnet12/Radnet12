@@ -15,20 +15,18 @@
 
 ### 💻 Tech Stack:
 
-<img alt="html5" src="https://img.shields.io/badge/html-8C0000.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="html5" src="https://img.shields.io/badge/html-060619.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
-<img alt="html5" src="https://img.shields.io/badge/html-060619.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=191966" />&nbsp;
-<img alt="css3" src="https://img.shields.io/badge/css-8C0000.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="sass" src="https://img.shields.io/badge/sass-8C0000.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="javascript" src="https://img.shields.io/badge/javascript-8C0000.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="react" src="https://img.shields.io/badge/react-8C0000.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="redux" src="https://img.shields.io/badge/redux-8C0000.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="graphql" src="https://img.shields.io/badge/graphql-8C0000.svg?&style=for-the-badge&logo=graphql&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="typescript" src="https://img.shields.io/badge/typescript-8C0000.svg?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="node.js" src="https://img.shields.io/badge/node.js-8C0000.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="mongodb" src="https://img.shields.io/badge/mongodb-8C0000.svg?&style=for-the-badge&logo=mongodb&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="next.js" src="https://img.shields.io/badge/next.js-8C0000.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="markdown" src="https://img.shields.io/badge/markdown-8C0000.svg?&style=for-the-badge&logo=markdown&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="css3" src="https://img.shields.io/badge/css-060619.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="sass" src="https://img.shields.io/badge/sass-060619.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="javascript" src="https://img.shields.io/badge/javascript-060619.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="react" src="https://img.shields.io/badge/react-060619.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="redux" src="https://img.shields.io/badge/redux-060619.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="graphql" src="https://img.shields.io/badge/graphql-060619.svg?&style=for-the-badge&logo=graphql&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="typescript" src="https://img.shields.io/badge/typescript-060619.svg?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="node.js" src="https://img.shields.io/badge/node.js-060619.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="mongodb" src="https://img.shields.io/badge/mongodb-060619.svg?&style=for-the-badge&logo=mongodb&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="next.js" src="https://img.shields.io/badge/next.js-060619.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="markdown" src="https://img.shields.io/badge/markdown-060619.svg?&style=for-the-badge&logo=markdown&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 
 ### 🛠 Tools:
 
