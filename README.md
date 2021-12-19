@@ -7,7 +7,7 @@
 - 💻 2+ Years Experience in Front-end Development
 - 🤍 React lover
 
-### 💻 Tech Stack:
+### 💻 Stack:
 
 <img alt="html5" src="https://img.shields.io/badge/html-060619.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-060619.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
