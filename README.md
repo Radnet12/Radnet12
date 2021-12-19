@@ -9,7 +9,7 @@
 
 ### 🤝 Connect with me:
 
-[<img alt="Telegram" src="https://img.shields.io/badge/telegram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=fff" />][telegram]
+[<img alt="Telegram" src="https://img.shields.io/badge/telegram-076BDE.svg?&style=for-the-badge&logo=telegram&logoColor=fff" />][telegram]
 
 
 
