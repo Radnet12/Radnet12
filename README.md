@@ -8,6 +8,12 @@
 - 🤍 React lover
 
 ### 🤝 Connect with me:
+
+[<img alt="Telegram" src="https://img.shields.io/badge/telegram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=fff" />][telegram]
+
+
+
+[telegram]: https://t.me/sergeyvasylenko4
 <!--
 **Radnet12/Radnet12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
