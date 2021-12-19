@@ -2,7 +2,7 @@
 
 ## I'm a Front-end Developer and Enthusiast!
 
-### Facts about me
+### 🙋‍♂️ Facts about me
 - 🏙️ I’m From Ukraine, Kharkiv
 - 💻 2+ Years Experience in Front-end Development
 - 🤍 React lover
