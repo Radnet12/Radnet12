@@ -15,12 +15,16 @@
 <img alt="javascript" src="https://img.shields.io/badge/javascript-060619.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="react" src="https://img.shields.io/badge/react-060619.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-060619.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="redux toolkit" src="https://img.shields.io/badge/redux toolkit-060619.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="rtk query" src="https://img.shields.io/badge/rtk query-060619.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="next.js" src="https://img.shields.io/badge/next.js-060619.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-060619.svg?&style=for-the-badge&logo=graphql&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-060619.svg?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="node.js" src="https://img.shields.io/badge/node.js-060619.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="express" src="https://img.shields.io/badge/express-060619.svg?&style=for-the-badge&logo=express&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-060619.svg?&style=for-the-badge&logo=mongodb&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
-<img alt="next.js" src="https://img.shields.io/badge/next.js-060619.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="markdown" src="https://img.shields.io/badge/markdown-060619.svg?&style=for-the-badge&logo=markdown&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="antd" src="https://tinyurl.com/2nmrwenp" />&nbsp;
 
 ### 🛠 Tools:
 
