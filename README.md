@@ -25,7 +25,7 @@
 <img alt="express" src="https://img.shields.io/badge/express-060619.svg?&style=for-the-badge&logo=express&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="nestjs" src="https://img.shields.io/badge/nestjs-060619.svg?&style=for-the-badge&logo=nestjs&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-060619.svg?&style=for-the-badge&logo=mongodb&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
-<img alt="postgresql" src="https://img.shields.io/badge/mongodb-060619.svg?&style=for-the-badge&logo=postgresql&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
+<img alt="postgresql" src="https://img.shields.io/badge/postgresql-060619.svg?&style=for-the-badge&logo=postgresql&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="markdown" src="https://img.shields.io/badge/markdown-060619.svg?&style=for-the-badge&logo=markdown&logoColor=fff&logoWidth=20&labelColor=20207F" />&nbsp;
 <img alt="antd" src="https://tinyurl.com/2nmrwenp" />&nbsp;
 
