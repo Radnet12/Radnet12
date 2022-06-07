@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ Facts about me:
 - 🏙️ I’m From Ukraine, Kharkiv
-- 💻 2+ Years Experience in Front-end Development
+- 💻 3+ Years Experience in Front-end Development
 - 🤍 JS lover
 - 🤗 React Enthusiast
 
